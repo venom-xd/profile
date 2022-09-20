@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+![200w](https://user-images.githubusercontent.com/85402673/191183556-564374da-c3d7-41d2-ab00-c7970118d03d.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom-xd&label=Profile%20views&color=0e75b6&style=flat" alt="venom-xd" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/adiprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adiprofile" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/venom-xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venom-xd" height="30" width="40" /></a>
